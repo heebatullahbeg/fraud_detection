@@ -1,6 +1,6 @@
 # Fraud Detection
 
-[Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/).
+[Credit Card Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/).
 
 Credit card companies are able to recognize fraudulent transactions so that customers aren't charged for items that they did not purchase.
 
